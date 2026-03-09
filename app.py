@@ -7,3 +7,5 @@ st.set_page_config(
 
 st.header("스트림릿 베포 테스트중")
 st.write("스트림릿 베포 해보기 - 류지현")
+
+st.write("스트림릿 베포 내용 추가합니다")
